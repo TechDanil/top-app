@@ -39,6 +39,6 @@
 }
 
 .primary svg,
-.ghost:hover  {
+.ghost:hover   {
   fill: var(--white);
 }
